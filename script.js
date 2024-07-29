@@ -3,9 +3,9 @@
         const contentArray = [
     "I - Introdução. (Balão Verde)",
     "Seja bem-vindo(a) ao Treinamento Básico I do Exército Brasileiro.",
-    "Eu sou o [Patente] [Nickname] e irei treiná-lo(a).",
+    "Eu sou o Segundo Tenente Therus e irei treiná-lo(a).",
     "Não durma durante o treinamento para não ser auto-kickado(a).",
-    "Responda às perguntas usando \"Sim, [sua patente]\", e \"Não, [sua patente]\".",
+    "Responda às perguntas usando \"Sim, Senhor\", e \"Não,Senhor\".",
     "O Exército Brasileiro possui dois corpos docentes, são os Praças e os Oficiais.",
     "Praças utilizam a camisa VERDE.",
     "Para Praças, use o nick ou patente como tratamento.",
